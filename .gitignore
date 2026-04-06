@@ -1,0 +1,10 @@
+# Dépendances
+node_modules/
+
+# Variables d'environnement (SECRETS)
+.env
+.env.local
+
+# Fichiers générés
+.next/
+*.log
